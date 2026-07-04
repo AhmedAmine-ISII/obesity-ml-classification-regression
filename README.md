@@ -51,6 +51,13 @@ multiple ML algorithms on each, to understand their strengths, weaknesses, and b
 Linear models (Logistic Regression for classification, plain linear regression variants
 for regression) consistently underperform tree-based ensembles, since the underlying
 relationships in the data are non-linear.
+## How to Run
 
+1. Clone this repository:
+   git clone https://github.com/AhmedAmine-ISII/obesity-ml-classification-regression.git
+2. Install the dependencies:
+   pip install -r requirements.txt
+3. Open the notebook:
+   jupyter notebook notebooks/AI_project.ipynb
 
 
