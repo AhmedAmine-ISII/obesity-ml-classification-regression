@@ -52,12 +52,5 @@ Linear models (Logistic Regression for classification, plain linear regression v
 for regression) consistently underperform tree-based ensembles, since the underlying
 relationships in the data are non-linear.
 
-## How to Run
 
-```bash
-git clone <your-repo-url>
-cd <repo-name>
-pip install -r requirements.txt
-jupyter notebook notebooks/AI_project.ipynb
-```
 
