@@ -61,13 +61,3 @@ pip install -r requirements.txt
 jupyter notebook notebooks/AI_project.ipynb
 ```
 
-## Authors
-
-- BENZINE Imène
-- SAADI Imene
-- ACHOUR Douaa
-- HADJBRAHIM Yasmine
-- BEKHOUCHE Rania
-
-University of Algiers 1 — Ben Youcef Benkheda, Faculty of Science, Computer Science
-Department — Module: Artificial Intelligence (2024/2025)
